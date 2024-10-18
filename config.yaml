@@ -1,0 +1,4 @@
+PATHs:
+  METADATA: '/home/arash/projects/fMRI/data/ds115_metadata/demographics.txt'
+  BASE_PATH: '/home/arash/projects/fMRI/data'
+  CORRELATIONS_PATH: 'correlations'
